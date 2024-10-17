@@ -97,8 +97,9 @@
               type="checkbox"
               name="twosided"
               v-model="twosided"
+              disabled
             />
-            <label for="twosided">&nbsp;Двусторонняя печать</label>
+            <label for="twosided">&nbsp;Двусторонняя печать (временно недоступна)</label>
           </div>
         </div>
       </div>
